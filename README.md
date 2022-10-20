@@ -20,10 +20,12 @@ Installasi selesai jika sudah muncul “Setup was succesful”.
 
 ### Contoh Perintah Dasar Python
 **# Mengambil input**
+
 **nama = input ("fergiawan")**
 **umur = input ("999")**
 
 **# Menampilkan Output**
+
 **print("Hello",nama,"umur kamu adalah",umur,"tahun")
 
 
