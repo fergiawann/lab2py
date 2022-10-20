@@ -18,6 +18,13 @@ Installasi selesai jika sudah muncul “Setup was succesful”.
 
 ![ss4](https://user-images.githubusercontent.com/115530180/196880295-d4a61402-f019-4294-a608-95d6c26787a3.png)
 
+### Contoh Perintah Dasar Python
+**# Mengambil input**
+**nama = input ("fergiawan")**
+**umur = input ("999")**
+
+**# Menampilkan Output**
+**print("Hello",nama,"umur kamu adalah",umur,"tahun")
 
 
 
