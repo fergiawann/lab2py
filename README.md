@@ -8,3 +8,5 @@ File Python interpreter bisa di download dari web resmi Python di www.python.org
 
 ### 2. Instalasi Python
 Setelah file Python berhasil di download, kita bisa masuk ke proses instalasi. Klik dua kali file python-3.8.10.exe.
+
+![ss2](https://user-images.githubusercontent.com/115530180/196878681-57397412-b074-4328-af92-3a933b8971ca.png)
