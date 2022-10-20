@@ -29,5 +29,19 @@ Installasi selesai jika sudah muncul “Setup was succesful”.
 
 **print("Hello",nama,"umur kamu adalah",umur,"tahun")**
 
+## Latihan 1
+**Menjalankan Python Console**
+* Menampilkan Tulisan "Hello" dilayar
+* Menampilkan tulisan "Saya sedang belajar python" dilayar
+
+![ss5](https://user-images.githubusercontent.com/115530180/196890797-74089ad1-9f5b-42c3-892a-a34b7f32f5e7.png)
+## Latihan 2
+**Menjumlahkan dua buah bilangan menggunakan variabel a dan b
+* Mendefinisikan variabel a dengan nilai 10
+* Mendefinisikan variabel b dengan nilai 14
+* Mencetak nilai variabel a dan b
+* Mencetak hasil penjumlahan a+b
+
+![ss6](https://user-images.githubusercontent.com/115530180/196893759-738c3a9e-2665-4fff-80c1-288cf5fe955a.png)
 
 
