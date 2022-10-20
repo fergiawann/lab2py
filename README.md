@@ -22,11 +22,12 @@ Installasi selesai jika sudah muncul “Setup was succesful”.
 **# Mengambil input**
 
 **nama = input ("fergiawan")**
+
 **umur = input ("999")**
 
 **# Menampilkan Output**
 
-**print("Hello",nama,"umur kamu adalah",umur,"tahun")
+**print("Hello",nama,"umur kamu adalah",umur,"tahun")**
 
 
 
