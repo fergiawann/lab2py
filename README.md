@@ -58,19 +58,27 @@ b=input("masukkan nilai b:")
 print("Variable a:10",a)
 print("Variable b:12",b)
 ```
-
-![ss7](https://user-images.githubusercontent.com/115530180/197186131-b67e76de-1b4a-4527-b2e6-f6e059a5e10e.png)
-
 Outputnya akan seperti ini
 
-![ss8](https://user-images.githubusercontent.com/115530180/197185317-7418649d-2298-408a-b66d-dbd9424f7f26.png)
-
+![ss7](https://user-images.githubusercontent.com/115530180/197186131-b67e76de-1b4a-4527-b2e6-f6e059a5e10e.png)
 ### Lalu Menjumlahkan Kedua Variable
 untuk penggabungan nilai kedua variabel dengan cara String Format dengan cara
 ```
 print("Hasil penggabungan {1}+{0}=%s".format(a,b) %(a+b))
 ```
-![ss9](https://user-images.githubusercontent.com/115530180/197186113-84c9766a-90f7-4f1e-b604-085543d47b58.png)
 
+![ss8](https://user-images.githubusercontent.com/115530180/197189386-a000bb22-ce08-48f5-acaa-a2112ef89abe.png)
+
+# Konversi Kedua Nilai Variabel
+Penggunaan python untuk mengkonversi nilai kedua variabel dengan
+```
+a=int(a)
+b=int(b)
+print("Hasil Penjumlahan {1}+{0}=%d").format(a,b) %(a+b))
+print("Hasil Pembagian {1}+{0}=%d").format(a,b) %(a/b))
+```
+Maka Outputnya akan seperti ini
+
+![ss9](https://user-images.githubusercontent.com/115530180/197194528-cfff52b7-8591-4b15-85af-1390babcb32b.png)
 
 
