@@ -48,4 +48,19 @@ Maka Output nya akan seperti ini
 ## Latihan 3
 ### Menginput nilai Variabel dengan IDLE Python
 Penggunaan IDLE python untuk menginput nilai variabel dengan cara
+```
+# input nilai variable
+a=input("masukkan nilai a:")
+b=input("masukkan nilai b:")
+# cetak nilai variable
+print("Variable a:10",a)
+print("Variable b:12",b)
+```
+
+![ss7](https://user-images.githubusercontent.com/115530180/197143292-b268418c-79cb-416c-8002-426cec5fc7cc.png)
+
+Outputnya akan seperti ini
+![ss8](https://user-images.githubusercontent.com/115530180/197143626-c5798e5d-0141-4ed3-8bda-0b71ba92832c.png)
+
+
 
