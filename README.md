@@ -41,7 +41,11 @@ Installasi selesai jika sudah muncul “Setup was succesful”.
 * Mendefinisikan variabel b dengan nilai 14
 * Mencetak nilai variabel a dan b
 * Mencetak hasil penjumlahan a+b
+Maka Output nya akan seperti ini
 
 ![ss6](https://user-images.githubusercontent.com/115530180/196893759-738c3a9e-2665-4fff-80c1-288cf5fe955a.png)
 
+## Latihan 3
+### Menginput nilai Variabel dengan IDLE Python
+Penggunaan IDLE python untuk menginput nilai variabel dengan cara
 
