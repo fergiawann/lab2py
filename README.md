@@ -1,4 +1,6 @@
 # lab2py
+# Praktikum2 
+# Fergiawan Satrio Bagaskoro
 ## Penjelasan Proses Praktikum
 ### 1. Cara Mendownload Python
 Agar kode program yang ditulis dalam bahasa Python bisa diproses menjadi aplikasi komputer, kita butuh sebuah Python Interpreter. Python interpreter inilah yang akan membaca satu persatu perintah dalam bahasa Python dan memprosesnya menjadi kode-kode yang bisa dipahami komputer.
