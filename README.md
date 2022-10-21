@@ -57,16 +57,18 @@ print("Variable a:10",a)
 print("Variable b:12",b)
 ```
 
-![ss7](https://user-images.githubusercontent.com/115530180/197143292-b268418c-79cb-416c-8002-426cec5fc7cc.png)
+![ss7](https://user-images.githubusercontent.com/115530180/197186131-b67e76de-1b4a-4527-b2e6-f6e059a5e10e.png)
 
 Outputnya akan seperti ini
-![ss8](https://user-images.githubusercontent.com/115530180/197143626-c5798e5d-0141-4ed3-8bda-0b71ba92832c.png)
+
+![ss8](https://user-images.githubusercontent.com/115530180/197185317-7418649d-2298-408a-b66d-dbd9424f7f26.png)
 
 ### Lalu Menjumlahkan Kedua Variable
 untuk penggabungan nilai kedua variabel dengan cara String Format dengan cara
 ```
 print("Hasil penggabungan {1}+{0}=%s".format(a,b) %(a+b))
 ```
+![ss9](https://user-images.githubusercontent.com/115530180/197186113-84c9766a-90f7-4f1e-b604-085543d47b58.png)
 
 
 
