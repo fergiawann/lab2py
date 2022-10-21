@@ -58,17 +58,18 @@ b=input("masukkan nilai b:")
 print("Variable a:10",a)
 print("Variable b:12",b)
 ```
-Outputnya akan seperti ini
+Maka Outputnya akan seperti ini
 
-![ss7](https://user-images.githubusercontent.com/115530180/197186131-b67e76de-1b4a-4527-b2e6-f6e059a5e10e.png)
+![ss7](https://user-images.githubusercontent.com/115530180/197197528-c5e3f381-c2c2-4990-9b63-9f33fd730085.png)
+
 ### Lalu Menjumlahkan Kedua Variable
 untuk penggabungan nilai kedua variabel dengan cara String Format dengan cara
 ```
 print("Hasil penggabungan {1}+{0}=%s".format(a,b) %(a+b))
 ```
+Maka Outputnya akan seperti ini
 
-![ss8](https://user-images.githubusercontent.com/115530180/197189386-a000bb22-ce08-48f5-acaa-a2112ef89abe.png)
-
+![ss8](https://user-images.githubusercontent.com/115530180/197197400-17aac896-dd40-4051-801b-794b00c39886.png)
 # Konversi Kedua Nilai Variabel
 Penggunaan python untuk mengkonversi nilai kedua variabel dengan
 ```
@@ -79,6 +80,4 @@ print("Hasil Pembagian {1}+{0}=%d").format(a,b) %(a/b))
 ```
 Maka Outputnya akan seperti ini
 
-![ss9](https://user-images.githubusercontent.com/115530180/197194528-cfff52b7-8591-4b15-85af-1390babcb32b.png)
-
-
+![ss9](https://user-images.githubusercontent.com/115530180/197197333-44fdcfc0-3877-4229-b918-abb995d8d5e3.png)
