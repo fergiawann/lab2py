@@ -46,7 +46,7 @@ Maka Output nya akan seperti ini
 ![ss6](https://user-images.githubusercontent.com/115530180/196893759-738c3a9e-2665-4fff-80c1-288cf5fe955a.png)
 
 ## Latihan 3
-### Menginput nilai Variabel dengan IDLE Python
+### Menginput nilai Variable dengan IDLE Python
 Penggunaan IDLE python untuk menginput nilai variabel dengan cara
 ```
 # input nilai variable
@@ -61,6 +61,12 @@ print("Variable b:12",b)
 
 Outputnya akan seperti ini
 ![ss8](https://user-images.githubusercontent.com/115530180/197143626-c5798e5d-0141-4ed3-8bda-0b71ba92832c.png)
+
+### Lalu Menjumlahkan Kedua Variable
+untuk penggabungan nilai kedua variabel dengan cara String Format dengan cara
+```
+print("Hasil penggabungan {1}+{0}=%s".format(a,b) %(a+b))
+```
 
 
 
